@@ -17,6 +17,8 @@ Changes a files mode bits.
 waitpid: 
 Waits for process to change state
 
+When it fails:
+
 fork: 
 Fails to allocate the necessary kernel structures when memory is tight.
 
